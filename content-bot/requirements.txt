@@ -1,0 +1,7 @@
+python-telegram-bot[ext]
+google-generativeai
+firebase-admin
+feedparser
+python-dotenv
+beautifulsoup4
+numpy
