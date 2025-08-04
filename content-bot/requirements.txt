@@ -6,3 +6,4 @@ python-dotenv
 beautifulsoup4
 numpy
 Flask
+MarkupSafe==2.1.5
