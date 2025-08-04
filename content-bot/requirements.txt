@@ -5,3 +5,4 @@ feedparser
 python-dotenv
 beautifulsoup4
 numpy
+Flask
